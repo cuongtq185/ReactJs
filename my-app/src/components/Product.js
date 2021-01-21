@@ -53,7 +53,9 @@ class Product extends Component {
                             <a href="index.html" className="btn btn-primary">Mua hàng</a>
                         </p>                       
                     </div>
+                    
                 </div>
+                
             </div>
 
 
